@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ammar Ibrahim!</h1>
 <h3 align="center">Software Engineering Student @ APU | AI & Data Enthusiast.</h3>
 
-- 🌱 I’m currently learning **Machine Learning (Supervised Learning)**
+- 🌱 I’m currently learning: **Machine Learning (Supervised Learning)**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-two-gmfu32.vercel.app/](https://my-portfolio-two-gmfu32.vercel.app/)
+- 👨‍💻 All of my projects are available at: [https://my-portfolio-two-gmfu32.vercel.app/](https://my-portfolio-two-gmfu32.vercel.app/)
 
-- ⚡ Fun fact **Night Owl Coder🦉**
+- ⚡ Fun fact: **I’m a Night Owl Coder🦉**
 - ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mncmlqehfy7r3fhrdkkisw47na)
 
 
