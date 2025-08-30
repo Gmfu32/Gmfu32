@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ammar Ibrahim!</h1>
+<h1 align="center">Hi, I'm Ammar Ibrahim!</h1>
 <h3 align="center">Software Engineering Student @ APU | AI & Data Enthusiast.</h3>
 
 - 🌱 I’m currently learning **Machine Learning (Supervised Learning)**
