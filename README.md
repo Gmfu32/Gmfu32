@@ -20,5 +20,3 @@
 <a href="https://instagram.com/gmfu32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gmfu32" height="30" width="40" /></a>
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-
