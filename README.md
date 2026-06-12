@@ -11,16 +11,35 @@
 - ⚡ Fun fact: **I’m a Night Owl Coder🦉**
 - ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mncmlqehfy7r3fhrdkkisw47na)
 
-## AI, Analytics & Automation
+<h3 align="left">AI, Analytics & Automation:</h3>
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge)
-![Emergent AI](https://img.shields.io/badge/Emergent-AI-blue?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-Microsoft-0078D4?style=for-the-badge&logo=microsoft)
-![SAP BO](https://img.shields.io/badge/SAP_BusinessObjects-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+<p align="left">
 
+<a href="https://openai.com/">
+  <img src="https://cdn.simpleicons.org/openai" alt="ChatGPT" width="40" height="40"/>
+</a>
+
+<a href="https://claude.ai/">
+  <img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="40" height="40"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/">
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/>
+</a>
+
+<a href="https://powerautomate.microsoft.com/">
+  <img src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" alt="Power Automate" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-copilot/microsoft-copilot-studio">
+  <img src="https://img.icons8.com/color/48/microsoft.png" alt="Copilot Studio" width="40" height="40"/>
+</a>
+
+<a href="https://www.sap.com/">
+  <img src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" alt="SAP BusinessObjects" width="40" height="40"/>
+</a>
+
+</p>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
