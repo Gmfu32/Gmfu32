@@ -14,31 +14,27 @@
 <h3 align="left">AI, Analytics & Automation:</h3>
 
 <p align="left">
-
-<a href="https://openai.com/">
-  <img src="https://cdn.simpleicons.org/openai" alt="ChatGPT" width="40" height="40"/>
-</a>
-
-<a href="https://claude.ai/">
-  <img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="40" height="40"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/">
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/>
-</a>
-
-<a href="https://powerautomate.microsoft.com/">
-  <img src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" alt="Power Automate" width="40" height="40"/>
-</a>
-
-<a href="https://www.microsoft.com/microsoft-copilot/microsoft-copilot-studio">
-  <img src="https://img.icons8.com/color/48/microsoft.png" alt="Copilot Studio" width="40" height="40"/>
-</a>
-
-<a href="https://www.sap.com/">
-  <img src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" alt="SAP BusinessObjects" width="40" height="40"/>
-</a>
-
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai.svg" alt="ChatGPT / OpenAI" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://claude.ai" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/claude.svg" alt="Claude / Anthropic" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://emergent.sh" target="_blank" rel="noreferrer">
+    <img src="https://github.com/emergentai.png" alt="Emergent AI" width="40" height="40" style="border-radius:8px"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Virtual-Agents.svg" alt="Microsoft Copilot Studio" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://powerautomate.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate.svg" alt="Power Automate" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.sap.com/products/technology-platform/analytics-cloud.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/sap.svg" alt="SAP BusinessObjects" width="40" height="40"/>
+  </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
