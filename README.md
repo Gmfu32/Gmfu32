@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ammar Ibrahim!</h1>
-<h3 align="center">Software Engineering Student @ APU | AI & Data Enthusiast.</h3>
+<h3 align="center"> Senior Software Engineering Student @ APU | AI & Data Enthusiast.</h3>
 
 - 🤖 AI & Data Analyst Intern @ Allianz
 - 📊 Former AI & Data Scientist Intern @ Teleperformance
