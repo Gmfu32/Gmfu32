@@ -6,7 +6,7 @@
 - 🚀 Passionate about AI, Data Analytics, Automation, and Software Development
 - 🌱 I’m currently learning: **Machine Learning (Supervised Learning)**
 
-- 👨‍💻 All of my projects are available at: [Portfolio] [https://my-portfolio-two-gmfu32.vercel.app/](https://my-portfolio-two-gmfu32.vercel.app/)
+- 👨‍💻 All of my projects are available at: [Portfolio](https://my-portfolio-two-gmfu32.vercel.app/)
 
 - ⚡ Fun fact: **I’m a Night Owl Coder🦉**
 - ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mncmlqehfy7r3fhrdkkisw47na)
