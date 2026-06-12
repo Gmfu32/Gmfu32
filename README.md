@@ -12,39 +12,6 @@
 - ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mncmlqehfy7r3fhrdkkisw47na)
 
 
-<h3 align="left">AI, Analytics & Automation Tools:</h3>
-
-<p align="left">
-
-<a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/openai" alt="ChatGPT" width="40" height="40"/>
-</a>
-
-<a href="https://claude.ai/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="40" height="40"/>
-</a>
-
-<a href="https://emergent.sh/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="Emergent AI" width="40" height="40"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/>
-</a>
-
-<a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" alt="Power Automate" width="40" height="40"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/microsoft.png" alt="Copilot Studio" width="40" height="40"/>
-</a>
-
-<a href="https://www.sap.com/products/technology-platform/businessobjects-bi.html" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" alt="SAP BusinessObjects" width="40" height="40"/>
-</a>
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
